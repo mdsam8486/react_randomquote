@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_randomquote/static/css/main.4331c41c.css",
+    "main.js": "/react_randomquote/static/js/main.71adbd20.js",
+    "static/js/787.63e47474.chunk.js": "/react_randomquote/static/js/787.63e47474.chunk.js",
+    "static/media/tumblr.svg": "/react_randomquote/static/media/tumblr.2ce9b8af9a64d0db1cd4c06529234682.svg",
+    "index.html": "/react_randomquote/index.html",
+    "static/media/twitter.svg": "/react_randomquote/static/media/twitter.33d46d8e1e5a9ec78ec941a4609f122a.svg",
+    "main.4331c41c.css.map": "/react_randomquote/static/css/main.4331c41c.css.map",
+    "main.71adbd20.js.map": "/react_randomquote/static/js/main.71adbd20.js.map",
+    "787.63e47474.chunk.js.map": "/react_randomquote/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4331c41c.css",
+    "static/js/main.71adbd20.js"
+  ]
+}
